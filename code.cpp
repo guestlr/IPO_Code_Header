@@ -1,6 +1,6 @@
 /*************************************************************************************************\
-*    Author: Zwolinski, R.																		  *
-*    Class: CST 113 / 133 / 202                                                                    *
+*    Author: Guest, L.																		  *
+*    Class: CST 113-2                                                                    *
 *    Project: Git Demo                                                                             *
 *                                                                                                 *
 *   Description:                                                                                  *
